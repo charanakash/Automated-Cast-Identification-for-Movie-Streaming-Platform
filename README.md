@@ -31,11 +31,3 @@
 - Improved significantly user satisfaction with the movie application.
 - Demonstrated the successful application of computer vision and deep learning techniques to solve a challenging real-world problem in the entertainment domain.
 
-## Key takeaways for your resume:
-
-- This project demonstrates your skills in:
-- Computer vision and deep learning techniques.
-- Data analysis and model development.
-- Software development and integration.
-- Improving user experience through innovative technology.
-- Delivering high-quality and impactful solutions in a fast-paced environment.
